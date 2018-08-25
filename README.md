@@ -1,2 +1,2 @@
 # BabyML
-Byte sized ML tutorials
+No-frills byte sized ML tutorials
