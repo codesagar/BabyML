@@ -5,10 +5,12 @@
 1. Statistical testing
 2. Linear Regresison
 3. Logistic Regression
-4. Association Rules
-5. Clustering
-6. Recommender Systems
-7. Decision Trees
-8. Random Forest
-9. SVM
-10. XGBoost
+4. Regularization
+5. Principal Component Analysis 
+6. Association Rules
+7. Clustering
+8. Recommender Systems
+9. Decision Trees
+10. Random Forest
+11. SVM
+12. XGBoost
