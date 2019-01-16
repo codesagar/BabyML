@@ -1,0 +1,19 @@
+
+
+Hello Everyone,
+
+
+I hope you guys are having a fabulous week. This will be the last weekend in our journey together in exploring basic techniques in data sciences.
+
+On Saturday, we will talk about methods that help us with dimensionality reduction and/or reduce the risk of overfitting.
+- Principal component analysis
+- Regularization
+- Naive Bayes Algorithm
+
+
+Sunday's class is going to densely packed with new material- we shall explore basic time series analysis methods. We will be starting with simple way of incorporating seasonality in data and quickly ramp to more advanced methods like  Holt-Winters. We will finish the class with a discussion of Arima methods.
+
+As always, the best way to prepare for the weekends class is to look back at the lecture notes and lab work from last week.
+
+Thx
+-Anand
